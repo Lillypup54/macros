@@ -27,6 +27,7 @@ This repository has two main paths:
 - **Python** (optional) — only needed if you want to use the Discord bot  
   Make sure to:
   - Install Python 3.8+
+  -  [Download here](https://www.python.org/downloads/)
   - Set up your **own Discord bot token** in the script
 
 ---
