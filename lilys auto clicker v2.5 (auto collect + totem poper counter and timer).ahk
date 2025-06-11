@@ -1,4 +1,6 @@
-﻿global stop := false
+;please if you change anything pls keep the names of peapoel that have helped code this
+;lily(denoscar23)
+global stop := false
 global times_totom_pop := 0
 global selected_slots := []
 global slot_checkboxes := []
