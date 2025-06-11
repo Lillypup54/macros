@@ -1,4 +1,5 @@
 📘 Totem Auto Script – README
+NEW!!!! added 158 new lines!! v2.5
 ⚠️ Requirements Before You Start:
 ✅ Buy Storage in-game, or the script won't collect anything.
 
