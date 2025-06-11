@@ -166,7 +166,7 @@ StartAutomation(*) {
             continue
         }
 
-        duration := 10
+        duration := 360
         Loop duration {
             if stop
                 return
