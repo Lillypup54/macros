@@ -167,7 +167,7 @@ StartAutomation(*) {
             continue
         }
 
-        duration := 10 ; cooldown
+        duration := 360 ; cooldown
         Loop duration {
             if stop
                 return
